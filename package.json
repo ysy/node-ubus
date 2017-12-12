@@ -1,6 +1,6 @@
 {
   "name": "node-ubus",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "OpenWrt Ubus interface for Node-js",
   "main": "index.js",
   "private": true,
